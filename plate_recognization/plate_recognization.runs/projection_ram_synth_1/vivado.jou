@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Mar 27 22:18:28 2024
+# Process ID: 23076
+# Current directory: F:/F_prj/plate_recognization/plate_recognization.runs/projection_ram_synth_1
+# Command line: vivado.exe -log projection_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source projection_ram.tcl
+# Log file: F:/F_prj/plate_recognization/plate_recognization.runs/projection_ram_synth_1/projection_ram.vds
+# Journal file: F:/F_prj/plate_recognization/plate_recognization.runs/projection_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source projection_ram.tcl -notrace

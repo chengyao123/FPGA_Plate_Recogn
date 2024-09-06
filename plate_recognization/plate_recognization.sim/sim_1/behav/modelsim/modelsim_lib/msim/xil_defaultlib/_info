@@ -1,0 +1,2290 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/F_prj/plate_recognization/plate_recognization.sim/sim_1/behav/modelsim
+vadd_char
+!s10a 1682836048
+Z1 !s110 1711612363
+!i10b 1
+!s100 YlU<Z<2KS8=Xz[2TWFDfC1
+IW@D9UJ`GoCjTkMG08DRON1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1682836048
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_char.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_char.v
+L0 9
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1711612362.000000
+Z5 !s107 C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/template_matching.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/rgb2ycbcr.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/rd_id.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/ov5640_dri.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_8bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_1bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/line_shift_ram_8bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_rgb_top.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_ov5640_rgb565_cfg.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_dri.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_top.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_rw.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_fifo_ctrl.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/cmos_capture_data.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/clk_div.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_vertical_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_horizon_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_binarization.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/binarization/binarization.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_grid.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_char.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_vertical_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_horizon_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/erosion/VIP_Bit_Erosion_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/dilation/VIP_Bit_Dilation_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/sobel/Sobel_Edge_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/Get_EigenValue.v|
+Z6 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/Get_EigenValue.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/sobel/Sobel_Edge_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/dilation/VIP_Bit_Dilation_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/erosion/VIP_Bit_Erosion_Detector.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_horizon_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_vertical_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_char.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_grid.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/binarization/binarization.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_binarization.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_horizon_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_vertical_projection.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/clk_div.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/cmos_capture_data.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_fifo_ctrl.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_rw.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ddr3_top/ddr3_top.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_dri.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_ov5640_rgb565_cfg.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/image_process.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_driver.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_rgb_top.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/line_shift_ram_8bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_1bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_8bit.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/ov5640_dri.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/picture_size.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/rd_id.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/rgb2ycbcr.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/template_matching.v|C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v|
+!i113 0
+Z7 o-work xil_defaultlib
+Z8 !s92 -work xil_defaultlib +incdir+../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0
+Z9 tCvgOpt 0
+vadd_grid
+!s10a 1682304142
+R1
+!i10b 1
+!s100 lizh^Y^4E:b>az[ME;3V52
+I=hY;cFn>HM3;>bcAA9ezz3
+R2
+R0
+w1682304142
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_grid.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/add_grid.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vbinarization
+!s10a 1681628198
+R1
+!i10b 1
+!s100 3O2C<YSC8B]c5GJnPcBk<3
+IJ7I;QdYdMkZmzE=e9b3lU0
+R2
+R0
+w1681628198
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/binarization/binarization.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/binarization/binarization.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vblk_mem_gen_0
+!s10a 1711547946
+Z10 !s110 1711612361
+!i10b 1
+!s100 m35PX_FD2kS@@_nYIfIn?1
+InG[W[N[>h;6zJn<b5lB>X1
+R2
+R0
+w1711547946
+8../../../../plate_recognization.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+F../../../../plate_recognization.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+Z11 L0 56
+R3
+r1
+!s85 0
+31
+Z12 !s108 1711612360.000000
+Z13 !s107 ../../../../plate_recognization.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|../../../../plate_recognization.srcs/sources_1/ip/projection_ram/sim/projection_ram.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig_sim.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_cmd.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_tap_base.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_meta.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_edge_store.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_cc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_skip_calib_tap.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl_off_delay.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_oclkdelay_cal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_samp.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_po_cntlr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_mux.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_lim.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_edge.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_cntlr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_fi_xor.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_merge_enc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_gen.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_dec_fix.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_buf.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v|../../../../plate_recognization.srcs/sources_1/ip/rd_fifo/sim/rd_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/wr_fifo/sim/wr_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v|../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|
+Z14 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0|../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v|../../../../plate_recognization.srcs/sources_1/ip/wr_fifo/sim/wr_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/rd_fifo/sim/rd_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_buf.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_dec_fix.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_gen.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_merge_enc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_fi_xor.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_cntlr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_edge.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_lim.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_mux.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_po_cntlr.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_samp.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_oclkdelay_cal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl_off_delay.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_skip_calib_tap.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_cc.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_edge_store.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_meta.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_tap_base.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_cmd.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_top.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig_sim.v|../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v|../../../../plate_recognization.srcs/sources_1/ip/projection_ram/sim/projection_ram.v|../../../../plate_recognization.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|
+!i113 0
+R7
+R8
+R9
+vchar_binarization
+!s10a 1681632246
+R1
+!i10b 1
+!s100 G5ebJJF4DLlSQoS^=00Of1
+IH]8@6H0czE<7I?fnB@5fc3
+R2
+R0
+w1681632246
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_binarization.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_binarization.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vchar_horizon_projection
+!s10a 1684209130
+R1
+!i10b 1
+!s100 ZP<43Sf_>9PX0Bg4zRMSN3
+IJJn?jW2ezRDQm22bjU`ae1
+R2
+R0
+w1684209130
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_horizon_projection.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_horizon_projection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vchar_vertical_projection
+!s10a 1682334082
+R1
+!i10b 1
+!s100 NM4M0jaY1_7l>_LE1cH;Q2
+IOGoAMzdoUUU[Uo@WGS7Ym3
+R2
+R0
+w1682334082
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_vertical_projection.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/char_vertical_projection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vclk_div
+!s10a 1590635258
+R1
+!i10b 1
+!s100 FQWg6UhkXnAc_N<VCSCOS1
+IWBM;b84IjXl0FGLlSM`D21
+R2
+R0
+w1590635258
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/clk_div.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/clk_div.v
+Z15 L0 24
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vclk_wiz_0
+Z16 !s10a 1711547333
+Z17 !s110 1711612360
+!i10b 1
+!s100 mY=]1h@l>l1`OlRK:Xi=g1
+I]3@>F[Kd]kDC8C>P^4`fm2
+R2
+R0
+Z18 w1711547333
+8../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+F../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+Z19 L0 71
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vclk_wiz_0_clk_wiz
+R16
+R17
+!i10b 1
+!s100 Nm0af4QFz99jF;Mi@M@=H2
+IAaf^5SR]Wb3^eb?8D5?lW0
+R2
+R0
+R18
+8../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+F../../../../plate_recognization.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+Z20 L0 69
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vcmos_capture_data
+!s10a 1590666498
+R1
+!i10b 1
+!s100 Y_>hkW8W5_FL7TE]?6jj<1
+IS;kBCHhMOOU[DzG^mUKUa0
+R2
+R0
+w1590666498
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/cmos_capture_data.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/cmos_capture_data.v
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+Ecordic
+Z21 w1711548908
+Z22 DPx14 cordic_v6_0_14 23 cordic_v6_0_14_viv_comp 0 22 Qj>DS8M7kZa6S@eODzQFS3
+DEx14 cordic_v6_0_14 14 cordic_v6_0_14 0 22 Mg_2BJBczQk0D:Z:1O7TT0
+Z23 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z24 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z25 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z26 8../../../../plate_recognization.srcs/sources_1/ip/cordic/sim/cordic.vhd
+Z27 F../../../../plate_recognization.srcs/sources_1/ip/cordic/sim/cordic.vhd
+l0
+L59
+V[T8WnY;cbMYUS]nF`HBgN2
+!s100 SCA:VOD9NJ`i5ZBI0m`I41
+Z28 OL;C;10.6d;65
+31
+Z29 !s110 1711625097
+!i10b 1
+Z30 !s108 1711625096.000000
+Z31 !s90 -64|-93|-work|xil_defaultlib|../../../../plate_recognization.srcs/sources_1/ip/cordic/sim/cordic.vhd|
+Z32 !s107 ../../../../plate_recognization.srcs/sources_1/ip/cordic/sim/cordic.vhd|
+!i113 0
+Z33 o-93 -work xil_defaultlib
+Z34 tExplicit 1 CvgOpt 0
+Acordic_arch
+R22
+R23
+R24
+R25
+DEx4 work 6 cordic 0 22 [T8WnY;cbMYUS]nF`HBgN2
+l136
+L69
+VB>oIWBfSe_zjO2][?5OjN1
+!s100 9V^Kec7[eXN7CilXaVU:h3
+R28
+31
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 0
+R33
+R34
+vGet_EigenValue
+!s10a 1682654038
+Z35 !s110 1711612362
+!i10b 1
+!s100 z=VQORc:8Lb02V<d<ANJ=2
+I6cQmJ284D6843]ITChi3[0
+R2
+R0
+w1682654038
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/Get_EigenValue.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/Get_EigenValue.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+n@get_@eigen@value
+vi2c_dri
+!s10a 1590653372
+R1
+!i10b 1
+!s100 c`9?0f:MKh@G9@RfeIjPo3
+IViX8mM>7D9lS?Q9=bVFOb1
+R2
+R0
+w1590653372
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_dri.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_dri.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vi2c_ov5640_rgb565_cfg
+!s10a 1590655478
+R1
+!i10b 1
+!s100 1dS2QUCRzd4mDPLcl>k>C0
+I9VUBCNRfSf_W8i2^3UI3Q0
+R2
+R0
+w1590655478
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_ov5640_rgb565_cfg.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/i2c_ov5640_rgb565_cfg.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vlcd_rgb_top
+!s10a 1590914906
+R1
+!i10b 1
+!s100 Cz4EKeGQ12D<`X3WoQg=;3
+IBS5]P63?e]?=D4LzHVWYa3
+R2
+R0
+w1590914906
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_rgb_top.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/lcd_rgb_top.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vline_shift_ram_8bit
+!s10a 1681196022
+R1
+!i10b 1
+!s100 aeVRaIVTESPSh3Y9ofl0<1
+ICe5]Aa3291k^]T<50EEd31
+R2
+R0
+w1681196022
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/line_shift_ram_8bit.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/line_shift_ram_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vmatrix_generate_3x3_1bit
+!s10a 1681267568
+R1
+!i10b 1
+!s100 3O^=KXLg1gWDjZE;dYfl83
+IIU4=0A[?ASIRDTongUkFR0
+R2
+R0
+w1681267568
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_1bit.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_1bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vmatrix_generate_3x3_8bit
+!s10a 1681195936
+R1
+!i10b 1
+!s100 65iO<^9TVUTN[bi?7<Sol0
+IHF1VgVBU?D5_6G1PIkeCY1
+R2
+R0
+w1681195936
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_8bit.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/matrix_generate_3x3_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vmig_7series_0
+Z36 !s10a 1711547566
+R10
+!i10b 1
+!s100 lRSm[3V?Ni?[W_3J>W`oG0
+I_2]>2^gH]U0@e][S5j`bN2
+R2
+R0
+Z37 w1711547566
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v
+Z38 L0 70
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_0_mig
+R36
+R10
+!i10b 1
+!s100 `cLHIQPUHP0Eh70>^<I7n0
+I:m15i^D_ZUBXNB?Wn^l5H3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig_sim.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig_sim.v
+Z39 L0 75
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_arb_mux
+R36
+R17
+!i10b 1
+!s100 VBzZXogVYKoDkF76Lnb2:1
+I5K^^2C0Pd`;9mf8>O_@fg3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_arb_row_col
+R36
+R17
+!i10b 1
+!s100 ??nCBf9WJdS^8WJY`W6mB3
+IR2WUY6<GdgI88CLHfl6f40
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v
+L0 83
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_arb_select
+R36
+R17
+!i10b 1
+!s100 d:<gJ4LijPHiJ_WS3=c[01
+I3@lQ=9NKSH?5_?lRWXn950
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v
+R39
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_cntrl
+R36
+R17
+!i10b 1
+!s100 UVFGCdgDG4UhAMo?YD6DJ0
+I:1mI^0lVn;kN^nc;A=J6G0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_common
+R36
+R17
+!i10b 1
+!s100 BYK_QEm;V31JjZ[n;ncbL0
+IK<0PzD4IdQME3fF>g2f>e0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v
+Z40 L0 73
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_compare
+R36
+R17
+!i10b 1
+!s100 FgaWlNZ@PWbihX5S1<d>50
+Il0QVQMzG1_dfSlTC4>15U2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v
+L0 74
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_mach
+R36
+R17
+!i10b 1
+!s100 Ecn7XcmOOXjPA[Xj_aTXI2
+IYSzTHPR0bdJh>Nh2O9m7Q2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v
+Z41 L0 72
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_queue
+R36
+R17
+!i10b 1
+!s100 5^fHYmElXmQY5Sm_V0_=]0
+I3XQ03b;dEfHf84;X9[9Im1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v
+L0 174
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_bank_state
+R36
+R17
+!i10b 1
+!s100 Q3R=2zA;f4KEfn?c;eLg`3
+IkDb68::TB@KLmMZSBVb`A3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v
+L0 141
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_clk_ibuf
+R36
+R17
+!i10b 1
+!s100 >>aBXn;LnRVdePJYa]l_H1
+ISKN<HkeN]m4g`_jGm:3EE2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v
+Z42 L0 68
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_col_mach
+R36
+R17
+!i10b 1
+!s100 SBfHICKd4n`n81;67g6I91
+I:c3E1;S;IDEFHab5a3WHe3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v
+L0 88
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_byte_group_io
+R36
+R17
+!i10b 1
+!s100 ;Z>dIoMbRYASlF0nE9KB@3
+IR7O_FoKOlM::^:]T?lFj90
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_byte_lane
+R36
+R17
+!i10b 1
+!s100 ngQgYQ?1zDez5QJX6^2>n3
+IocBM@dHoTMkUdHTWL92Kg0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_calib_top
+R36
+R17
+!i10b 1
+!s100 NZhE7b=HGBO>fXNgLPfUm3
+IZ22WQ<ZlQBMBoB65K;]dO2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v
+Z43 L0 82
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_if_post_fifo
+R36
+R17
+!i10b 1
+!s100 n7ET18X5@a8?4[C7DKhOL0
+Ia5^eT5MWB<kXX`D>B860f0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_mc_phy
+R36
+R17
+!i10b 1
+!s100 ]D^caA>@VUI5RCnkAUQYa1
+IB`T3z0Bf?JVBoF9DkGPVo1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_mc_phy_wrapper
+R36
+R17
+!i10b 1
+!s100 i=hfPKf0G[zV2X62TG:_m1
+IJHgMVB82YW3JUL4:mmUYk2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v
+R19
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_of_pre_fifo
+R36
+R17
+!i10b 1
+!s100 fLDGQHgA=3SVjc2BDPn9U1
+Ia8NmNiQGVeia5B^Ti[^H^1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v
+L0 76
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_4lanes
+R36
+R17
+!i10b 1
+!s100 lZ_ZCa;6jRF1H=mTI<INK2
+IjPf:5:IiF<eMj]K7U[n5^3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v
+R41
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ck_addr_cmd_delay
+R36
+R17
+!i10b 1
+!s100 J<an@4e7fBN77XbG5izgU1
+Ig3SI78bh<I@62IK95zJ5L3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_dqs_found_cal
+R36
+R17
+!i10b 1
+!s100 OZAeK6WXU;X6jKc=caU363
+I4MYR<giP]ocm]e962A?0T0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal.v
+Z44 L0 79
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_dqs_found_cal_hr
+R36
+R17
+!i10b 1
+!s100 ZS6LGiH;mUYj`FN2GY?Rd1
+IP4fI>;3JYcLZgkOmQ09:Y2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v
+R44
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_init
+R36
+R17
+!i10b 1
+!s100 jN;SEgbZPOGk`O<Qah0<71
+I]2DG[^kCJ[d:[0]7:[mU?3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v
+L0 89
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_cntlr
+R36
+R17
+!i10b 1
+!s100 7LX?PO>_J0=faURO@ab3`1
+ISR8mLOH^S]Z?:zShB0^D12
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_cntlr.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_cntlr.v
+R43
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_data
+R36
+R17
+!i10b 1
+!s100 SfGO<ldfMaO>^RZdeB0aG2
+IV09I831F9f8PCRmzU=2hH2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_data.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_data.v
+L0 120
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_edge
+R36
+R17
+!i10b 1
+!s100 bAXFa`1MS73oEJQBVZ8IO0
+ISZ7f`g[;iBCkcPVbO2Sb=1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_edge.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_edge.v
+L0 91
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_lim
+R36
+R17
+!i10b 1
+!s100 XJC2_VKegHG<:[aD6PW?_1
+IdI>@QLfomK>=Q22:6`MZ>2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_lim.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_lim.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_mux
+R36
+R17
+!i10b 1
+!s100 fg?eCDHGI7kI2MXJ3jDCD1
+I0lQV@Z6K_h0bb7>aUNk^L1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_mux.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_mux.v
+R41
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_po_cntlr
+R36
+R17
+!i10b 1
+!s100 l2JSGm3G@0oKH@Lz0X=RS3
+I?SZnESS7RnO4meG3Y8lFY0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_po_cntlr.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_po_cntlr.v
+L0 105
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_ocd_samp
+R36
+R10
+!i10b 1
+!s100 IRI>[?4A3:Q:be6zQLB=e3
+I4`L]=n[OA4=`4OnaEi4mf2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_samp.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ocd_samp.v
+L0 109
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_oclkdelay_cal
+R36
+R10
+!i10b 1
+!s100 F64mN<Q;jW4o]_h[S092O3
+I5U950R[T;VU1a>WFUzc0[3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_oclkdelay_cal.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_oclkdelay_cal.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_prbs_rdlvl
+R36
+R10
+!i10b 1
+!s100 X7U<f2ZBbz8CzR:g`X=Dm2
+I6oIHR<I6UM:e^??D020;D0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v
+R44
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_rdlvl
+R36
+R10
+!i10b 1
+!s100 c0?6LY96BGH_U3MRU0nY33
+I_D==GJ75<9n[ZiA2Ff<>E2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v
+L0 81
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_tempmon
+R36
+R10
+!i10b 1
+!s100 i7Qk2[<hBz>HRCLJ6b@6H2
+I7>D1H_;5blnf[DFX727fE2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_top
+R36
+R10
+!i10b 1
+!s100 2Z?]4bZ:STNfNPzZ7?m_E1
+I9lM?EMcI2UGM>1bUR2=W`1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_wrcal
+R36
+R10
+!i10b 1
+!s100 obKU=i`z9;hoOB25R_]Df2
+I<O91ZgE6J02D>jO4RM;[l3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v
+L0 77
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_wrlvl
+R36
+R10
+!i10b 1
+!s100 2n6Y<^]c8f0HG3=e]Uf[z0
+IOGzB<bjB=NE2=J48RX2j91
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v
+L0 90
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_phy_wrlvl_off_delay
+R36
+R10
+!i10b 1
+!s100 K;3]4@=UWQADl;e9T7^nW3
+Iii`kFEFG1183;<iLZD22O1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl_off_delay.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl_off_delay.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_prbs_gen
+R36
+R10
+!i10b 1
+!s100 T[Ybf1<YP@XjTl^_3V5TH3
+I=g0<dBzdbU67[7zO_N=1>2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v
+L0 92
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ddr_skip_calib_tap
+R36
+R10
+!i10b 1
+!s100 K7IOB?dUZOVIdKi;cCZ^P2
+IC7[;4RUfEk54?^FZle_mE0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_skip_calib_tap.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_skip_calib_tap.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ecc_buf
+R36
+R17
+!i10b 1
+!s100 X9;]:lhI_9mcFF7<=B2b@1
+IM;GQ>3fcX@ZL:_9R4;_`W3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_buf.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_buf.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ecc_dec_fix
+R36
+R17
+!i10b 1
+!s100 Mhio:W3KPmb=IPOcGiVh_2
+Ikd;7i?e]a?S77<H8eIPfX3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_dec_fix.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_dec_fix.v
+L0 67
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ecc_gen
+R36
+R17
+!i10b 1
+!s100 SHJUVODF2D2TzH;154Q^j0
+I_iPhKH=EEL6IdmHeZ9?Q:1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_gen.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_gen.v
+L0 104
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ecc_merge_enc
+R36
+R17
+!i10b 1
+!s100 Q`k^N?hHL_Nd6jZihZBYP0
+IibH6^Rh0m4V]X8@oF>Z2k1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_merge_enc.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_ecc_merge_enc.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_fi_xor
+R36
+R17
+!i10b 1
+!s100 AEIP=kUNC53URCm:Pn;>f3
+I]m`YZ[hIl53dfNR96F`K_1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_fi_xor.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ecc/mig_7series_v4_2_fi_xor.v
+L0 64
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_infrastructure
+R36
+R17
+!i10b 1
+!s100 dn:WfMQ=^XjB[DOSz[XIJ0
+I__gzl4n44mnAk?MzUkKKf1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v
+L0 78
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_iodelay_ctrl
+R36
+R17
+!i10b 1
+!s100 a4MTlFedG<g[Sh`2ENT1Q1
+I4^cF<Y=3zj1F=Uj<YFS]J0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v
+L0 80
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_mc
+R36
+R17
+!i10b 1
+!s100 BJ@JblQLiFn8JnId60DBJ1
+IYNCH`9b[n1oI64RcF]^aW0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v
+R40
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_mem_intfc
+R36
+R17
+!i10b 1
+!s100 DlnGJY4b:_59Q6RY6=ed?1
+IT0Y5_`mhM>;aFRX<N@3VL2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_memc_ui_top_std
+R36
+R17
+!i10b 1
+!s100 8ZG8G5?6NCKZgfQ`FK^mZ2
+I[0hngIQz0k;ME4^KG@z_00
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v
+R41
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_cc
+R36
+R10
+!i10b 1
+!s100 oGEECfh5BGGMk6e<g7W_01
+I?VzCm7IDTDEUFzZzJN:9B3
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_cc.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_cc.v
+R39
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_edge_store
+R36
+R10
+!i10b 1
+!s100 cEITL>dbU0UfS;Ti3a?dj0
+I8BT0bfPS4R[1>@NTlC5Dj2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_edge_store.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_edge_store.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_meta
+R36
+R10
+!i10b 1
+!s100 mE]BVCQF`]XPXi7;:0Mj:2
+IV8L7jeab3=Gh^OzF`XC^C2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_meta.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_meta.v
+L0 106
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_pd
+R36
+R10
+!i10b 1
+!s100 =6gm]l<Mk>F2CEVkM2LF_3
+IjMlNf@AT0TJ9R6m0PCi>G2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_tap_base
+R36
+R10
+!i10b 1
+!s100 ^U3X8N;I4[^hXzm_IbImK3
+Ii_z?KBQVFa@SRMXgZ4F1d2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_tap_base.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_tap_base.v
+L0 99
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_poc_top
+R36
+R10
+!i10b 1
+!s100 `gAEBBU:Ha^[N[g[EQcFi0
+IjbgbgZ0YU8:CaHgYDC9b03
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_top.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_top.v
+R42
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_rank_cntrl
+R36
+R17
+!i10b 1
+!s100 3<=FPnKBf7m]_mnWNBNXb2
+IjoXg1QgWaLFcl8o8XH>hX1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v
+R44
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_rank_common
+R36
+R17
+!i10b 1
+!s100 :]_^1HZk56iO0XJk^_h]l1
+I[G:T00oSa>JCLo`:o;b4K0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v
+R41
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_rank_mach
+R36
+R17
+!i10b 1
+!s100 nZ0;AhaLEV^?_A6nK8kdQ1
+Iine>NWmR<i0QMnJUi@iKb2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v
+R19
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_round_robin_arb
+R36
+R17
+!i10b 1
+!s100 fTA^7Kh2R>85fgT6O2N6h1
+IQTfnzgjLSi3:7XYB`k2:j1
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v
+L0 121
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_tempmon
+R36
+R17
+!i10b 1
+!s100 `@KfeoFVY2kJ0cU<EDI3E2
+I9_86:zn0_]g_2GW;X^oSY2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v
+R20
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ui_cmd
+R36
+R10
+!i10b 1
+!s100 a=`6mBHMzbdm;dZ>UkUOI2
+IQCJlm2`eOo2Q3UoolT^DZ2
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_cmd.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_cmd.v
+R38
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ui_rd_data
+R36
+R10
+!i10b 1
+!s100 ?9BD6XzSAiKKgY7695hDh3
+IRJbC@>RX2Fhm@O1D4XkaU0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v
+L0 140
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ui_top
+R36
+R10
+!i10b 1
+!s100 =h`?NIZNHjlzP;NRhYFiT2
+IWAhNgHM6CYVO22C55d;H:0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_top.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_top.v
+R19
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vmig_7series_v4_2_ui_wr_data
+R36
+R10
+!i10b 1
+!s100 fR_h7UjdRY^1^:?`V69SN0
+ILcUlbCQY0G=4321BZe6<U0
+R2
+R0
+R37
+8../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v
+F../../../../plate_recognization.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v
+L0 131
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vov5640_dri
+!s10a 1590655394
+R1
+!i10b 1
+!s100 ;VSG;D9MQWP<c>YB4M=AG0
+INbTolz4ER@_<8STHhDf7J2
+R2
+R0
+w1590655394
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/ov5640_dri.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_dri/ov5640_dri.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vov5640_fun4_lcd
+!s10a 1682847316
+R1
+!i10b 1
+!s100 1d40ca];eETn[>;R_FQ4c2
+IM_dAAzHDGMZXJHHiHez=P1
+R2
+R0
+w1682847316
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/ov5640_fun4_lcd.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vprojection_ram
+!s10a 1711549100
+R10
+!i10b 1
+!s100 FneZ]llZM^08WnL]dGSl23
+I73zF_CY3PaYOM8KY;mNl?2
+R2
+R0
+w1711549100
+8../../../../plate_recognization.srcs/sources_1/ip/projection_ram/sim/projection_ram.v
+F../../../../plate_recognization.srcs/sources_1/ip/projection_ram/sim/projection_ram.v
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vrd_fifo
+!s10a 1711548692
+R17
+!i10b 1
+!s100 87RccZaG_3f4]0Z3_d[SR3
+IT1WaQGHA8VeejBOT7]CKF1
+R2
+R0
+w1711548692
+8../../../../plate_recognization.srcs/sources_1/ip/rd_fifo/sim/rd_fifo.v
+F../../../../plate_recognization.srcs/sources_1/ip/rd_fifo/sim/rd_fifo.v
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
+vrd_id
+!s10a 1590635288
+R1
+!i10b 1
+!s100 zH1JfjoaKko;ePPK6Lg5O3
+I@Z?WmBmU@V1Ah;GSWkO`41
+R2
+R0
+w1590635288
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/rd_id.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/lcd_top/rd_id.v
+R15
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vrgb2ycbcr
+!s10a 1587458490
+R1
+!i10b 1
+!s100 lA]@ebOCGa`1__cIQZXm;3
+II9Qn8Ha1ma^P`Cb9W?=AV3
+R2
+R0
+w1587458490
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/rgb2ycbcr.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/rgb2ycbcr.v
+L0 22
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vtemplate_matching
+!s10a 1682847864
+R1
+!i10b 1
+!s100 kbkz<m4<CYCY8XZTmHC:62
+IZ0fPbY@93PdzBE4cXA?951
+R2
+R0
+w1682847864
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/template_matching.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/template_matching.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+vVIP_Bit_Dilation_Detector
+!s10a 1681271848
+R35
+!i10b 1
+!s100 AGM7_DdGLM:l@[;ij9O@a3
+I[V]M4E84dHZI:iF9FcGzH1
+R2
+R0
+w1681271848
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/dilation/VIP_Bit_Dilation_Detector.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/dilation/VIP_Bit_Dilation_Detector.v
+Z45 L0 34
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+n@v@i@p_@bit_@dilation_@detector
+vVIP_Bit_Erosion_Detector
+!s10a 1681267352
+R35
+!i10b 1
+!s100 ?<Iz:6o5:WG08c22Sa:fz0
+IG[7GoN6La_:5ehoZ5C_?K1
+R2
+R0
+w1681267352
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/erosion/VIP_Bit_Erosion_Detector.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/erosion/VIP_Bit_Erosion_Detector.v
+R45
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+n@v@i@p_@bit_@erosion_@detector
+vVIP_horizon_projection
+!s10a 1681622422
+R35
+!i10b 1
+!s100 nj8`K@ogCFbJE8AK4Qj103
+IRS3f;4N^cNNLY9cZBnYcl2
+R2
+R0
+w1681622422
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_horizon_projection.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_horizon_projection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+n@v@i@p_horizon_projection
+vVIP_vertical_projection
+!s10a 1681622398
+R35
+!i10b 1
+!s100 [lcQ8J`S1F=JzAIT31dR=2
+IQZl7zf[3Tb@<hI`=onnGh0
+R2
+R0
+w1681622398
+8C:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_vertical_projection.v
+FC:/Users/Dell/Desktop/F/ov5640_fun4_lcd_up3/project_1/ov5640_fun4_lcd.srcs/sources_1/new/image_process/projection/VIP_vertical_projection.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+R9
+n@v@i@p_vertical_projection
+vwr_fifo
+!s10a 1711548766
+R17
+!i10b 1
+!s100 G]YROb^ioCcooE?H]IUf72
+I;l;>1@9ZXZdLWi9iE6^mT1
+R2
+R0
+w1711548766
+8../../../../plate_recognization.srcs/sources_1/ip/wr_fifo/sim/wr_fifo.v
+F../../../../plate_recognization.srcs/sources_1/ip/wr_fifo/sim/wr_fifo.v
+R11
+R3
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R7
+R8
+R9
